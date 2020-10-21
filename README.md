@@ -6,8 +6,8 @@ Repositório destinado ao Codigo do desafio da semana 17 de loja online de uma P
 
 
 # Indíce.
-<a href="#Sobre este Projeto">Sobre este projeto</a> <img src="http://i.imgur.com/Gi9bvn1.png" width="30" height="30">
-<a href="#Melhorias">Melhorias</a> <img src="http://i.imgur.com/GGg5FQu.png" width="30" height="30">
+<a href="#Sobre este Projeto">Sobre este projeto</a> <img src="http://i.imgur.com/Gi9bvn1.png" width="30" height="30"> <br>
+<a href="#Melhorias">Melhorias</a> <img src="http://i.imgur.com/GGg5FQu.png" width="30" height="30"> <br>
 <a href="#Hospedagem e visualização">Hospedagem e visualização</a> <img src="http://i.imgur.com/2BmEJY1.png" width="30" height="30">
 
 

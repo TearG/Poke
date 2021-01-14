@@ -1,5 +1,8 @@
 # Poke Store. <img src="http://i.imgur.com/4VTVTkk.png" width="30" height="30">
 
+
+
+
 Repositório destinado ao Codigo do desafio da semana 17 de loja online de uma Pokestore do Programa Hiring Coders da Gama Academy.
 <img src="https://i.imgur.com/J9ynKU9.png" width="30" height="30"> <img src="https://i.imgur.com/jee6nD3.png" width="30" height="30">   <img src="http://i.imgur.com/dRY9tTv.png" width="30" height="30">      
      
